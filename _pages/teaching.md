@@ -15,5 +15,5 @@ author_profile: true
 ### Preparatory Course in Econometrics (master)
 ### Econometrics II (master tutorial)
 
-## TU Dromund (2013 -- 2015)
+## TU Dortmund (2013 -- 2015)
 ### Advanced Econometrics: Linear Panel Data and Microeconometrics (master tutorial)
